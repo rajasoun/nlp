@@ -7,7 +7,7 @@ name = "pypi"
 gensim = "*"
 "newspaper3k" = "*"
 requests = "*"
-nltk = "==3.3"
+nltk = "==3.4.5"
 
 [dev-packages]
 
